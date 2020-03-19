@@ -1,2 +1,2 @@
 # ui2py_converter
-Chapter 1 of AP computer Science.
+GUI to convert .ui files to .py files - PyQt5
